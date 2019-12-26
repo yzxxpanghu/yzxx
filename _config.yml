@@ -11,10 +11,10 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title:一只小熊
-description: _description_
+title:yzxx
+description: daxiong
 owner:
-  name: 胖虎 # or company name
+  name: panghu # or company name
   url: "http://example.com" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
